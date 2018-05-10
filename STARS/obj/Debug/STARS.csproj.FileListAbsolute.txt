@@ -1,0 +1,66 @@
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\bin\STARS.dll.config
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\bin\STARS.dll
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\bin\STARS.pdb
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\obj\Debug\STARS.dll
+c:\users\djz\documents\visual studio 2013\Projects\STARS\STARS\obj\Debug\STARS.pdb
+C:\Users\firaz\Downloads\STARS\STARS\bin\STARS.dll.config
+C:\Users\firaz\Downloads\STARS\STARS\bin\STARS.dll
+C:\Users\firaz\Downloads\STARS\STARS\bin\STARS.pdb
+C:\Users\firaz\Downloads\STARS\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+C:\Users\firaz\Downloads\STARS\STARS\obj\Debug\STARS.dll
+C:\Users\firaz\Downloads\STARS\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS\STARS\bin\STARS.dll
+G:\CIS 5106\STARS\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS\STARS\obj\Debug\STARS.pdb
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\bin\STARS.dll.config
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\bin\STARS.dll
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\bin\STARS.pdb
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\obj\Debug\STARS.dll
+C:\Users\firaz\Downloads\STARS version 2-20170326T212319Z-001\STARS version 2\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS version 4\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS version 4\STARS\bin\STARS.dll
+G:\CIS 5106\STARS version 4\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS version 4\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS version 4\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS version 4\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS version 6\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS version 6\STARS\bin\STARS.dll
+G:\CIS 5106\STARS version 6\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS version 6\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS version 6\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS version 6\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS version 7\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS version 7\STARS\bin\STARS.dll
+G:\CIS 5106\STARS version 7\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS version 7\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS version 7\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS version 7\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS version 8\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS version 8\STARS\bin\STARS.dll
+G:\CIS 5106\STARS version 8\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS version 8\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS version 8\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS version 8\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS version 9\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS version 9\STARS\bin\STARS.dll
+G:\CIS 5106\STARS version 9\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS version 9\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS version 9\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS version 9\STARS\obj\Debug\STARS.pdb
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\bin\STARS.dll.config
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\bin\STARS.dll
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\bin\STARS.pdb
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\obj\Debug\STARS.dll
+C:\Users\firaz\Downloads\STARS version 9-20170406T203319Z-001\STARS version 9\STARS\obj\Debug\STARS.pdb
+G:\CIS 5106\STARS final version\STARS\bin\STARS.dll.config
+G:\CIS 5106\STARS final version\STARS\bin\STARS.dll
+G:\CIS 5106\STARS final version\STARS\bin\STARS.pdb
+G:\CIS 5106\STARS final version\STARS\obj\Debug\STARS.csprojResolveAssemblyReference.cache
+G:\CIS 5106\STARS final version\STARS\obj\Debug\STARS.dll
+G:\CIS 5106\STARS final version\STARS\obj\Debug\STARS.pdb
